@@ -37,7 +37,7 @@ Data přenášená mezi klientem a serverem jsou pouze ta, která jsou požadov�
 
     client -h eva.fit.vutbr.cz -p 10000 -NSF -l xnovak99
 
-vytiskne jméno, příjmení, fakultu osoby, která má login xnovak99
+vytiskne jméno, příjmení, fakultu osoby, která má login xnovak99.
 
     client -h eva.fit.vutbr.cz -p 10000 -L -f FIT -n Jan
     
